@@ -2,7 +2,7 @@
   "name": "lambda-comments",
   "version": "0.0.2",
   "description": "Blog commenting system built with AWS Lambda",
-  "repository": "jimpick/lambda-comments",
+  "repository": "talkingtab/lambda-comments",
   "main": "config.js",
   "scripts": {
     "create-cloudformation": "deploy/cloudformation/cloudformation.sh create",
